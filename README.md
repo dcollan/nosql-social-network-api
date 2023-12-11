@@ -28,6 +28,10 @@ From scratch, create an application that will perform CRUD operations using Mong
 
 ![img](./assets/nosql-social-screenshot.png)
 
+## Video Walkthrough Link
+
+https://youtu.be/hpfKxUrX6IU
+
 ## How to Run
 
 1. Run 'git clone (repo link)' on Git Bash'
